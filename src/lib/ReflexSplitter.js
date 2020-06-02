@@ -160,7 +160,8 @@ export default class ReflexSplitter extends React.Component {
 
         this.props.onResize({
           component: this,
-          domElement
+          domElement,
+          event
         })
       }    
 
