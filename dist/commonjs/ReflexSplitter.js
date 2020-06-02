@@ -81,7 +81,8 @@ function (_React$Component) {
         if (_this.props.onResize) {
           _this.props.onResize({
             component: (0, _assertThisInitialized2.default)((0, _assertThisInitialized2.default)(_this)),
-            domElement: domElement
+            domElement: domElement,
+            event: event
           });
         }
 

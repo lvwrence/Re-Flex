@@ -43,7 +43,8 @@ export default class ReflexSplitter extends React.Component {
         if (this.props.onResize) {
           this.props.onResize({
             component: this,
-            domElement
+            domElement,
+            event
           });
         }
 

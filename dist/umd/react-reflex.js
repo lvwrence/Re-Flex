@@ -4913,7 +4913,7 @@ _babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_9___default()(Ref
     return;
   }
 
-  reactHotLoader.register(ReflexContainer, "ReflexContainer", "/Users/philippe/Dropbox/projects/leefsmp/re-flex/src/lib/ReflexContainer.js");
+  reactHotLoader.register(ReflexContainer, "ReflexContainer", "/Users/lawrence/dev/Re-Flex/src/lib/ReflexContainer.js");
   leaveModule(module);
 })();
 
@@ -5331,8 +5331,8 @@ _babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_11___default()(Re
     return;
   }
 
-  reactHotLoader.register(SizeAwareReflexElement, "SizeAwareReflexElement", "/Users/philippe/Dropbox/projects/leefsmp/re-flex/src/lib/ReflexElement.js");
-  reactHotLoader.register(ReflexElement, "ReflexElement", "/Users/philippe/Dropbox/projects/leefsmp/re-flex/src/lib/ReflexElement.js");
+  reactHotLoader.register(SizeAwareReflexElement, "SizeAwareReflexElement", "/Users/lawrence/dev/Re-Flex/src/lib/ReflexElement.js");
+  reactHotLoader.register(ReflexElement, "ReflexElement", "/Users/lawrence/dev/Re-Flex/src/lib/ReflexElement.js");
   leaveModule(module);
 })();
 
@@ -5471,8 +5471,8 @@ var _default = ReflexEvents;
     return;
   }
 
-  reactHotLoader.register(ReflexEvents, "ReflexEvents", "/Users/philippe/Dropbox/projects/leefsmp/re-flex/src/lib/ReflexEvents.js");
-  reactHotLoader.register(_default, "default", "/Users/philippe/Dropbox/projects/leefsmp/re-flex/src/lib/ReflexEvents.js");
+  reactHotLoader.register(ReflexEvents, "ReflexEvents", "/Users/lawrence/dev/Re-Flex/src/lib/ReflexEvents.js");
+  reactHotLoader.register(_default, "default", "/Users/lawrence/dev/Re-Flex/src/lib/ReflexEvents.js");
   leaveModule(module);
 })();
 
@@ -5763,7 +5763,7 @@ _babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_8___default()(Ref
     return;
   }
 
-  reactHotLoader.register(ReflexHandle, "ReflexHandle", "/Users/philippe/Dropbox/projects/leefsmp/re-flex/src/lib/ReflexHandle.js");
+  reactHotLoader.register(ReflexHandle, "ReflexHandle", "/Users/lawrence/dev/Re-Flex/src/lib/ReflexHandle.js");
   leaveModule(module);
 })();
 
@@ -5879,7 +5879,8 @@ function (_React$Component) {
         if (_this.props.onResize) {
           _this.props.onResize({
             component: _babel_runtime_helpers_assertThisInitialized__WEBPACK_IMPORTED_MODULE_7___default()(_babel_runtime_helpers_assertThisInitialized__WEBPACK_IMPORTED_MODULE_7___default()(_this)),
-            domElement: domElement
+            domElement: domElement,
+            event: event
           });
         }
 
@@ -6054,7 +6055,7 @@ _babel_runtime_helpers_defineProperty__WEBPACK_IMPORTED_MODULE_8___default()(Ref
     return;
   }
 
-  reactHotLoader.register(ReflexSplitter, "ReflexSplitter", "/Users/philippe/Dropbox/projects/leefsmp/re-flex/src/lib/ReflexSplitter.js");
+  reactHotLoader.register(ReflexSplitter, "ReflexSplitter", "/Users/lawrence/dev/Re-Flex/src/lib/ReflexSplitter.js");
   leaveModule(module);
 })();
 
@@ -6262,8 +6263,8 @@ var getDataProps = function getDataProps(props) {
     return;
   }
 
-  reactHotLoader.register(Browser, "Browser", "/Users/philippe/Dropbox/projects/leefsmp/re-flex/src/lib/utilities.js");
-  reactHotLoader.register(getDataProps, "getDataProps", "/Users/philippe/Dropbox/projects/leefsmp/re-flex/src/lib/utilities.js");
+  reactHotLoader.register(Browser, "Browser", "/Users/lawrence/dev/Re-Flex/src/lib/utilities.js");
+  reactHotLoader.register(getDataProps, "getDataProps", "/Users/lawrence/dev/Re-Flex/src/lib/utilities.js");
   leaveModule(module);
 })();
 
